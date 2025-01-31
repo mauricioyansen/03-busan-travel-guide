@@ -1,0 +1,51 @@
+:root {
+    font-family: "Open Sans", serif;
+    background-color: #F5F4F0;
+}
+
+.headline {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    color: #1B1B1B;
+}
+
+p, footer {
+    color: #333333;
+}
+
+.bompara {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.history, .couples, .families, .budget {
+    font-weight: bold;
+}
+
+.history {
+    color: #0C51A7;
+}
+
+.couples {
+    color: #591B98;
+}
+
+.families {
+    color: #E5245E;
+}
+
+.budget {
+    color: #E95E10;
+}
+
+ul li::marker {
+    color: #333333;
+}
+
