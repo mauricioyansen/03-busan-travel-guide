@@ -71,15 +71,11 @@ p, footer {
     color: #333333;
 }
 
-.bompara {
-    font-weight: bold;
-}
-
 ul {
     list-style-type: disc;
 }
 
-.history, .couples, .families, .budget {
+.history, .couples, .families, .budget, .bompara {
     font-weight: bold;
 }
 
